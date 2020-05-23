@@ -1,0 +1,8 @@
+Exeption: Value does not fall within the expected range., Method:Double Calc(),    at oopsh6.Program.Arifm.Calc() in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 44
+   at oopsh6.Program.Main(String[] args) in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 58
+Exeption: Attempted to divide by zero., Method:Double Calc(),    at oopsh6.Program.Arifm.Calc() in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 39
+   at oopsh6.Program.Main(String[] args) in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 58
+Exeption: Value does not fall within the expected range., Method:Double Calc(),    at oopsh6.Program.Arifm.Calc() in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 44
+   at oopsh6.Program.Main(String[] args) in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 58
+Exeption: Value does not fall within the expected range., Method:Double Calc(),    at oopsh6.Program.Arifm.Calc() in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 44
+   at oopsh6.Program.Main(String[] args) in C:\Users\Karina\source\repos\oopsh6\Program.cs:line 58
