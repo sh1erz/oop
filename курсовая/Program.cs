@@ -17,7 +17,7 @@ namespace kursach
         {
             Console.WriteLine(message);
         }
-
+        
         public abstract class Person
         {
             public event AccountHandler Notify;
@@ -38,8 +38,6 @@ namespace kursach
 
             public abstract void ShowInfo();
         }
-
-        
         
 
         static void Main(string[] args)
