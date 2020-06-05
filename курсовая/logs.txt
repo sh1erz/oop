@@ -1,0 +1,32 @@
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Program.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Program.cs:line 74
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Program.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Program.cs:line 74
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 48
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 48
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 48
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 48
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 49
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 49
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule.ShowSchedule(Int32 day) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 66
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule.ShowSchedule(Int32 day) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 66
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule.ShowSchedule(Int32 day) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 66
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule.ShowSchedule(Int32 day) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 66
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule.ShowSchedule(Int32 day) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 66
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 49
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 50
+System.ArgumentException: Value does not fall within the expected range.
+   at kursach.Doctor.Schedule..ctor(Int32 startH, Int32 startM, Int32 endH, Int32 endM, Int32 duration) in C:\Users\Karina\RiderProjects\kursach\kursach\Doctor.cs:line 50
